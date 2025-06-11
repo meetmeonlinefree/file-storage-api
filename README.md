@@ -11,6 +11,8 @@ API-сервис на Laravel для загрузки, хранения, пол�
 `php artisan key:generate`<br/>
 `php artisan migrate`<br/>
 
+<hr>
+
 База данных:  `file-storage-api.sql`<br/>
 Коллекция Postman: `Хранение_файлов_с_привязкой_к_клиенту_collection.json`<br/>
 
