@@ -10,4 +10,4 @@ API-сервис на Laravel для загрузки, хранения, пол�
 
 **URL:**
 ```http
-POST [http://yourdomain.com/api/upload/file](http://localhost/file-storage-api/public/api/upload/file)
+POST (http://localhost/file-storage-api/public/api/upload/file)
