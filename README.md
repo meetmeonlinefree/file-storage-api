@@ -21,6 +21,7 @@ API-сервис на Laravel для загрузки, хранения, пол�
 **URL:**
 ```http
 POST [http://localhost/file-storage-api/public/api/upload/file]
+```
 
 ### ✅ 1. Загрузка обычного файла
 **POST** `/api/upload/file`
