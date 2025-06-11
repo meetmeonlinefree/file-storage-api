@@ -75,3 +75,9 @@ POST [http://localhost/file-storage-api/public/api/files?client_code=example_cli
 **URL:**
 ```http
 POST [http://localhost/file-storage-api/public/api/files?client_code=example_client&type=leads]
+
+```
+
+## 👤  Автор
+
+Telegram: `https://t.me/aspire111111`
