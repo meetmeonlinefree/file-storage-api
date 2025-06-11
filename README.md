@@ -28,7 +28,7 @@ POST [http://localhost/file-storage-api/public/api/upload/file]
 
 **URL:**
 ```http
-**POST** http://localhost/file-storage-api/public/api/upload/file
+POST http://localhost/file-storage-api/public/api/upload/file
 ```
 
 ### ✅ 2. Загрузка файла в base64 (POST /api/upload/base64)
