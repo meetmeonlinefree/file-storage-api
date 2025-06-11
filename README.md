@@ -6,10 +6,10 @@ API-сервис на Laravel для загрузки, хранения, пол�
 ## 🚀 Установка API
 `git clone https://github.com/yourusername/file-storage-api.git`<br/>
 `cd file-storage-api`<br/>
-composer install<br/>
-cp .env.example .env<br/>
-php artisan key:generate<br/>
-php artisan migrate<br/>
+`composer install`<br/>
+`cp .env.example .env`<br/>
+`php artisan key:generate`<br/>
+`php artisan migrate`<br/>
 
 
 ## 🚀 Функции API
