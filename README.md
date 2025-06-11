@@ -3,8 +3,8 @@
 ## 📌 Описание проекта
 API-сервис на Laravel для загрузки, хранения, получения файлов, с привязкой к клиентскому поддомену (client_code) и типу данных.
 
-## 🚀 Установка API
-`git clone https://github.com/yourusername/file-storage-api.git`<br/>
+## 🚀 Установка проекта
+`git clone https://github.com/meetmeonlinefree/file-storage-api.git`<br/>
 `cd file-storage-api`<br/>
 `composer install`<br/>
 `cp .env.example .env`<br/>
