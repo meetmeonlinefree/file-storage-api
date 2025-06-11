@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "dec9b184-63a5-4da2-a8de-fe1dc2d3bc22",
+		"name": "Test_Remote_Work",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "✅ 1. Загрузка обычного файла (POST /api/upload/file)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "✅ 2. Загрузка файла в base64 (POST /api/upload/base64)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "✅ 3. Получить файл по file_unique_id (GET /api/file/{code})",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "✅ 4. Получить файл по ID (GET /api/file/id/{id})",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "✅ 5. Получить список файлов клиента (GET /api/files)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "✅ 5.1. Получить список файлов клиента (GET /api/files)",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
